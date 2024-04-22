@@ -88,4 +88,5 @@ Pour miner sur hiveos :
 
 
 Nb: si vous ne mettez pas de worker_name le nom du par défaut sera "default"
-ENJOY!!
+
+Merci de respecter le travail fournis gratuitement et de na pas vous L'apropriez a des fin pécunière.
