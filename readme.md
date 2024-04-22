@@ -6,7 +6,7 @@ Avant de commencer il est fortement conseiller d'être sur la dernière version 
 
 répondez yes
 
-vous aurez besoin des app suivante si elles ne sont pas déja installé:
+vous aurez besoin des apps suivante si elles ne sont pas déja installé:
 
 `apt install screen`
 
