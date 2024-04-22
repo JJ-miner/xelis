@@ -4,12 +4,14 @@ Avant de commencer il est fortement conseiller d'être sur la dernière version 
 
 `hive-replace --beta`
 
-vous aurez besoin des app suivante
+répondez yes
+
+vous aurez besoin des app suivante si elles ne sont pas déja installé:
 
 `apt install screen`
+
 `apt install ntpdate`
 
-répondez yes
 
 Maintenant Voici comment lancer un node sur linux dans votre shell tapez les commandes suivante:
 
