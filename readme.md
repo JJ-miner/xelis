@@ -39,7 +39,7 @@ tapez les touches:
 
 `ctrl + a + c`
 
-cela ouvre une nouvelle fenètre screen
+cela ouvre une nouvelle fenêtre screen
 
 tapez la commande:
 
@@ -63,7 +63,7 @@ tapez le nom du wallet que vous désirez ici teamjj:
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/e2ed3876-4933-431e-850b-c6bc4716b17d)
 
 
-puis choisissez votre mdp qui vous faudrat entrer deux fois:
+puis choisissez votre mdp qui vous faudra entrer deux fois:
 
 
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/b1cd9c64-1214-4f75-b0c7-7f0714c556b7)
@@ -72,7 +72,7 @@ puis choisissez votre mdp qui vous faudrat entrer deux fois:
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/2b553e7c-4e79-4d5a-a142-3d1ce0320543)
 
 
-une fois créer récuprer la seed et conservez la précieusement puis faitre entrer
+une fois créer récupérer la seed et conservez la précieusement puis faite entrer
 
 
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/c0651825-3a11-47ab-84e5-6ec557040d7a)
@@ -103,4 +103,4 @@ Pour miner sur hiveos :
 
 Nb: si vous ne mettez pas de worker_name le nom du par défaut sera "default"
 
-Merci de respecter le travail fournis gratuitement et de na pas vous L'apropriez a des fin pécunière.
+
