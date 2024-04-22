@@ -38,10 +38,13 @@ create
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/478e2433-7779-4294-a923-db1efdfe59c7)
 
 tapez le nom du wallet que vous désirez ici teamjj:
+
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/e2ed3876-4933-431e-850b-c6bc4716b17d)
 
 puis choisissez votre mdp qui vous faudrat entrer deux fois:
+
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/b1cd9c64-1214-4f75-b0c7-7f0714c556b7)
+
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/2b553e7c-4e79-4d5a-a142-3d1ce0320543)
 
 une fois créer récuprer la seed et conservez la précieusement puis faitre entrer
@@ -50,12 +53,11 @@ une fois créer récuprer la seed et conservez la précieusement puis faitre ent
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/eb31e373-e87e-4c32-96c9-0e121665503e)
 maintenant tapez:
 display_address
+
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/c168d188-7707-4f9a-acd6-f127a908e9ac)
+
 vous obtiendrez votre address 
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/4b809607-9566-4e78-901a-2999ddf00a74)
-
-
-
 
 
 Pour miner sur hiveos :
