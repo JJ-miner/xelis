@@ -26,11 +26,15 @@ cela concorde notre node est bien synced
 
 
 Maintenant le wallet
+
 tapez les touches:
+
 ctrl + a + c
 
 cela ouvre une nouvelle fenètre screen
+
 tapez la commande:
+
 ./xelis_wallet
 
 
@@ -38,6 +42,7 @@ tapez la commande:
 
 
 tapez :
+
 create
 
 
@@ -69,6 +74,7 @@ une fois créer récuprer la seed et conservez la précieusement puis faitre ent
 
 
 maintenant tapez:
+
 display_address
 
 
