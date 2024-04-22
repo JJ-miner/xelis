@@ -29,7 +29,7 @@ Maintenant Voici comment lancer un node sur linux dans votre shell tapez les com
 
 `cd x86_64-unknown-linux-gn`
 
-`./xelis_daemon  --allow-boost-sync`
+`./xelis_daemon --allow-boost-sync`
 
 
 Pour vérifier que notre node est synced nous allons sur https://explorer.xelis.io/ on regarde le dernier block 
