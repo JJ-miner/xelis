@@ -11,7 +11,11 @@ cd x86_64-unknown-linux-gn
 
 
 Pour vérifier que notre node est synced nous allons sur https://explorer.xelis.io/ on regarde le dernier block 
+
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/92983b4f-ef56-417f-8bb7-57f326dc0b42)
+
+
+
 
 cela concorde notre node est bien synced 
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/165249c4-b06f-4dee-a4fc-937791ea0e06)
