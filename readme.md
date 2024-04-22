@@ -2,21 +2,21 @@ Hello les miner de xelis
 
 Voici comment lancer un node sur linux dans votre shell tapez les commandes suivante:
 
-screen
+*`screen`
 
-mkdir xelis
+*`mkdir xelis`
 
-cd xelis
+*`cd xelis`
 
-wget https://github.com/xelis-project/xelis-blockchain/releases/download/v1.9.1/x86_64-unknown-linux-gnu.tar.gz
+*`wget https://github.com/xelis-project/xelis-blockchain/releases/download/v1.9.1/x86_64-unknown-linux-gnu.tar.gz`
 
-tar -xf x86_64-unknown-linux-gnu.tar.gz
+*`tar -xf x86_64-unknown-linux-gnu.tar.gz`
 
-rm x86_64-unknown-linux-gnu.tar.gz
+*`rm x86_64-unknown-linux-gnu.tar.gz`
 
-cd x86_64-unknown-linux-gn
+*`cd x86_64-unknown-linux-gn`
 
-./xelis_daemon  --allow-boost-sync
+*`./xelis_daemon  --allow-boost-sync`
 
 
 Pour vérifier que notre node est synced nous allons sur https://explorer.xelis.io/ on regarde le dernier block 
@@ -37,13 +37,13 @@ Maintenant le wallet
 
 tapez les touches:
 
-ctrl + a + c
+`ctrl + a + c`
 
 cela ouvre une nouvelle fenètre screen
 
 tapez la commande:
 
-./xelis_wallet
+*`./xelis_wallet`
 
 
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/4dab90ad-ed44-4d2b-ab16-c4d79a419f22)
@@ -51,7 +51,7 @@ tapez la commande:
 
 tapez :
 
-create
+*`create`
 
 
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/478e2433-7779-4294-a923-db1efdfe59c7)
@@ -83,7 +83,7 @@ une fois créer récuprer la seed et conservez la précieusement puis faitre ent
 
 maintenant tapez:
 
-display_address
+*`display_address`
 
 
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/c168d188-7707-4f9a-acd6-f127a908e9ac)
