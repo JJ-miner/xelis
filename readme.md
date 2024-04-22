@@ -103,4 +103,10 @@ Pour miner sur hiveos :
 
 Nb: si vous ne mettez pas de worker_name le nom du par défaut sera "default"
 
+en cas d'erreur :
 
+![image](https://github.com/JJ-miner/xelis/assets/167770964/715e9e7b-32c1-417c-9c0a-a2d186e898a2)
+
+lancez :
+
+`echo "deb http://cz.archive.ubuntu.com/ubuntu jammy main" >> /etc/apt/sources.list && apt update && apt install libc6`
