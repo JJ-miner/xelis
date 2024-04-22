@@ -1,6 +1,11 @@
 Hello les miner de xelis
+Avant de commancer il est fortement conseiller d'etre sur la dernière version béta de hiveos:
 
-Voici comment lancer un node sur linux dans votre shell tapez les commandes suivante:
+`hive-replace --beta`
+
+répondez yes
+
+Maintenant Voici comment lancer un node sur linux dans votre shell tapez les commandes suivante:
 
 `screen`
 
