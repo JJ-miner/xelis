@@ -18,6 +18,18 @@ Pour vérifier que notre node est synced nous allons sur https://explorer.xelis.
 
 
 cela concorde notre node est bien synced 
+
+
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/165249c4-b06f-4dee-a4fc-937791ea0e06)
 
-Pour miner sur hiveos 
+
+
+Pour miner sur hiveos :
+
+Plusieurs type de FS possible:
+
+
+ou
+
+
+Nb: si vous ne mettez pas de worker_name le nom du par défaut sera "default"
