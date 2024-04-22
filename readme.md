@@ -1,5 +1,6 @@
 Hello les miner de xelis
-Avant de commancer il est fortement conseiller d'etre sur la dernière version béta de hiveos:
+
+Avant de commencer il est fortement conseiller d'être sur la dernière version béta de hiveos:
 
 `hive-replace --beta`
 
