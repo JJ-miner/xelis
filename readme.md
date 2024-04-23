@@ -27,7 +27,7 @@ Maintenant Voici comment lancer un node sur linux dans votre shell tapez les com
 
 `rm x86_64-unknown-linux-gnu.tar.gz`
 
-`cd x86_64-unknown-linux-gn`
+`cd x86_64-unknown-linux-gnu`
 
 `./xelis_daemon --allow-boost-sync`
 
