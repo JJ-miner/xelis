@@ -63,6 +63,8 @@ cela ouvre une nouvelle fenêtre screen
 
 tapez la commande:
 
+`cd xelis`
+
 `./xelis_wallet`
 
 
