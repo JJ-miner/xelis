@@ -21,7 +21,7 @@ Maintenant Voici comment lancer un node sur linux dans votre shell tapez les com
 
 `cd xelis`
 
-`wget https://github.com/xelis-project/xelis-blockchain/releases/download/v1.9.1/x86_64-unknown-linux-gnu.tar.gz`
+`wget https://github.com/xelis-project/xelis-blockchain/releases/download/v1.9.2/x86_64-unknown-linux-gnu.tar.gz`
 
 `tar -xf x86_64-unknown-linux-gnu.tar.gz`
 
@@ -63,7 +63,7 @@ cela ouvre une nouvelle fenêtre screen
 
 tapez la commande:
 
-`cd xelis`
+`cd xelis/x86_64-unknown-linux-gnu`
 
 `./xelis_wallet`
 
