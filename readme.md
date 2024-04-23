@@ -136,3 +136,7 @@ lancez :sudo
 `echo "deb http://cz.archive.ubuntu.com/ubuntu jammy main" >> /etc/apt/sources.list && apt update && apt install libc6`
 
 `rm /etc/apt/sources.list && cp /etc/apt/sources.list.backup /etc/apt/sources.list`
+
+https://explorer.xelis.io/mining-calculator
+
+
