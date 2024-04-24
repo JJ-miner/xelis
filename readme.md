@@ -1,3 +1,4 @@
+
 Hello les miner de xelis
 
 Avant de commencer il est fortement conseiller d'être sur la dernière version béta de hiveos et de faire la mise a jours des drivers:
@@ -170,5 +171,9 @@ lancez :sudo
 `rm /etc/apt/sources.list && cp /etc/apt/sources.list.backup /etc/apt/sources.list`
 
 https://explorer.xelis.io/mining-calculator
+
+rejoignez nous sur le discord de JJ
+
+https://discord.gg/MAn8QdFS
 
 
