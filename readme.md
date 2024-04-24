@@ -170,6 +170,8 @@ lancez :sudo
 
 `rm /etc/apt/sources.list && cp /etc/apt/sources.list.backup /etc/apt/sources.list`
 
+Calculez vos gains potentiels:
+
 https://explorer.xelis.io/mining-calculator
 
 rejoignez nous sur le discord de JJ
