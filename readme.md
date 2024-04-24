@@ -18,7 +18,7 @@ vous aurez besoin des apps suivante si elles ne sont pas déja installé:
 
 Maintenant Voici comment lancer un node sur linux dans votre shell tapez les commandes suivante:
 
-`screen`
+`screen -t node`
 
 `mkdir xelis`
 
@@ -60,11 +60,13 @@ Maintenant le wallet
 
 tapez les touches:
 
-`ctrl + a + c`
+`ctrl + a + d`
 
-cela ouvre une nouvelle fenêtre screen
+cela detache le screen en laissant le node tourné pour y retourné il suffira de taper screen -r node
 
 tapez la commande:
+
+`screen -t wallet`
 
 `cd xelis/x86_64-unknown-linux-gnu`
 
@@ -119,6 +121,9 @@ vous obtiendrez votre address
 
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/4b809607-9566-4e78-901a-2999ddf00a74)
 
+maintenant on ferme le screen comme pour le node
+
+`ctrl + a + d`
 
 Pour miner sur hiveos :
 
