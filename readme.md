@@ -146,7 +146,7 @@ Pour miner juste CPU
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/ab8f2817-8358-4c98-bcaf-f2ad4c4cdef3)
 
 
-Attention compatible uniquement avec les cpu avx2 ou superieur 
+Attention compatible uniquement avec les cpu avx2 ou supérieur
 
 
 Nb: si vous ne mettez pas de worker_name le nom du par défaut sera "default"
