@@ -122,7 +122,11 @@ Pour miner sur hiveos :
 
 version xelis_miner-v1.9.2e.tar.gz utilise le miner xelis-taxminer
 
-Pour le moment pas de remonter de block trouvé ou de rejet car rien fournie dans les logs
+Nous ne sommes pas les dev du miner xelis-taxminer il y aurait 10% de fee à confirmer par le dev 
+
+Nous avons juste adapté le miner dans un custom pour hiveos
+
+c'est une version béta 
 
 Pour dual miner
 
