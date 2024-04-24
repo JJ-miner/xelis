@@ -1,10 +1,12 @@
 Hello les miner de xelis
 
-Avant de commencer il est fortement conseiller d'être sur la dernière version béta de hiveos:
+Avant de commencer il est fortement conseiller d'être sur la dernière version béta de hiveos et de faire la mise a jours des drivers:
 
 `hive-replace --beta`
 
 répondez yes
+
+`nvidia-driver-update`
 
 vous aurez besoin des apps suivante si elles ne sont pas déja installé:
 
