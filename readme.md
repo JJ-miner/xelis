@@ -120,7 +120,33 @@ vous obtiendrez votre address
 Pour miner sur hiveos :
 
 
-![image](https://github.com/JJ-miner/xelis/assets/167770964/9328cee6-8e3b-4e73-93ba-b026fd93db5b)
+version xelis_miner-v1.9.2e.tar.gz utilise le miner xelis-taxminer
+
+Pour le moment pas de remonter de block trouvé ou de rejet car rien fournie dans les logs
+
+Pour dual miner
+
+pas de choix sur le nombre de thread 
+
+![image](https://github.com/JJ-miner/xelis/assets/167770964/69ea16a6-9a19-4c6f-926b-f7c9a1194812)
+
+
+Pour miner juste GPU
+
+Pas de remonter des hash des gpu dans les log donc seule le hash total est afficher
+
+![image](https://github.com/JJ-miner/xelis/assets/167770964/03fc7853-ca3f-43ac-8e72-e46d74c97396)
+
+il est possible d'utiliser nvtool 
+
+![image](https://github.com/JJ-miner/xelis/assets/167770964/f361e03a-c8ff-4cd6-9bda-eb275ad5edbb)
+
+Pour miner juste CPU
+
+![image](https://github.com/JJ-miner/xelis/assets/167770964/ab8f2817-8358-4c98-bcaf-f2ad4c4cdef3)
+
+
+Attention compatible uniquement avec les cpu avx2 ou superieur 
 
 
 Nb: si vous ne mettez pas de worker_name le nom du par défaut sera "default"
