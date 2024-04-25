@@ -1,5 +1,8 @@
+JJ-TEAM DE JEANJEANLABRICOLE
 
-Hello les miner de xelis
+https://discord.gg/MAn8QdFS
+
+Hello les mineurs de xelis
 
 Avant de commencer il est fortement conseiller d'être sur la dernière version béta de hiveos et de faire la mise a jours des drivers:
 
