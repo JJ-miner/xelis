@@ -18,8 +18,6 @@ vous aurez besoin des apps suivante si elles ne sont pas déja installé:
 
 Maintenant Voici comment lancer un node sur linux dans votre shell tapez les commandes suivante:
 
-`screen -t node`
-
 `mkdir xelis`
 
 `cd xelis`
@@ -32,7 +30,7 @@ Maintenant Voici comment lancer un node sur linux dans votre shell tapez les com
 
 `cd x86_64-unknown-linux-gnu`
 
-`./xelis_daemon --allow-boost-sync`
+`screen -S node-xelis ./xelis_daemon --allow-boost-sync`
 
 
 Pour vérifier que notre node est synced nous allons sur https://explorer.xelis.io/ on regarde le dernier block 
@@ -62,15 +60,15 @@ tapez les touches:
 
 `ctrl + a + d`
 
-cela detache le screen en laissant le node tourné pour y retourné il suffira de taper screen -r node
+cela detache le screen en laissant le node tourné pour y retourné il suffira de taper 
+
+`screen -r node-xelis`
 
 tapez la commande:
 
-`screen -t wallet`
-
 `cd xelis/x86_64-unknown-linux-gnu`
 
-`./xelis_wallet`
+`screen -S wallet-xelis ./xelis_wallet`
 
 
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/4dab90ad-ed44-4d2b-ab16-c4d79a419f22)
