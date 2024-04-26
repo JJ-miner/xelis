@@ -131,9 +131,10 @@ maintenant on ferme le screen comme pour le node
 Pour miner sur hiveos :
 
 
-version xelis_miner-v1.9.2e.tar.gz utilise le miner xelis-taxminer
 
 Nous ne sommes pas les dev du miner xelis-taxminer il y a 10% de fee 
+
+miner xelis_miner 1.9.3 0% de fee
 
 Nous avons juste adapté le miner dans un custom pour hiveos
 
