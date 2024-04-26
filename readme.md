@@ -159,11 +159,11 @@ Pour miner juste CPU
 
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/ab8f2817-8358-4c98-bcaf-f2ad4c4cdef3)
 
+Ajout des arguments pour les différents miner  il faut mettre a la ligne:
 
-Attention compatible uniquement avec les cpu avx2 ou supérieur
+![image](https://github.com/JJ-miner/xelis/assets/167770964/2d3eb704-af01-4bc5-b8a8-19849ff1552a)
 
-
-Nb: si vous ne mettez pas de worker_name le nom du par défaut sera "default"
+Nb: si vous ne mettez pas de worker_name le nom du par défaut sera "rig"
 
 en cas d'erreur :
 
