@@ -141,7 +141,6 @@ c'est une version béta
 
 Pour dual miner
 
-pas de choix sur le nombre de thread 
 
 ![image](https://github.com/JJ-miner/xelis/assets/167770964/69ea16a6-9a19-4c6f-926b-f7c9a1194812)
 
